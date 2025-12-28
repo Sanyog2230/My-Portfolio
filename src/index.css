@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url('/Montserrat.ttf') format('truetype'); 
+}
+
+@font-face {
+  font-family: 'InstrumentSerif';
+  src: url('/InstrumentSerif.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'inter';
+  src: url('/inter.ttf');
+}
+
+@font-face {
+  font-family: 'caveat' ;
+  src: url('/Caveat.ttf');
+}
+
+ 
